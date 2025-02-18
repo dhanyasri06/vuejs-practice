@@ -3,7 +3,7 @@ export default {
   data() {
     return {
       count: 0,
-      name: "shiva",
+      name: "demo",
       status: "inactive",
       tasks: ["Task One", "Task Two", "Task Three", "Task Four"],
       link: "https://",
